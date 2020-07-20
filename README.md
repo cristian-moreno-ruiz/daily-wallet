@@ -23,4 +23,5 @@ Ensure `.env` contains proper environment variables:
 - [ ] History between dates
 - [ ] Converter
 - [ ] Compact wallet (basically a multi converter, convert all my currencies to one other, and break it down)
+- [ ] Buy/Sell prices from banks?
 - [ ] Crypto?
